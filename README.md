@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshjo98309158" target="blank"><img src="https://img.shields.io/twitter/follow/harshjo98309158?logo=twitter&style=for-the-badge" alt="harshjo98309158" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,C++,CSS,PYTHON**
+- 🌱 I’m currently learning **trying to be consistent**
 
 - 💬 Ask me about **#student**
 
