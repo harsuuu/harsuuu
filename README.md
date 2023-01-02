@@ -26,4 +26,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpal18&show_icons=true&theme=white"" alt="harsuuu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpal18&show_icons=true&theme=radical"" alt="harsuuu" /></p>
