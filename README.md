@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsuuu&label=Profile%20views&color=0e75b6&style=flat" alt="harsuuu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imharshuuu?t=o0nueE3rfgTPbhti4uGk1A&s=03" target="blank"><img src="https://img.shields.io/twitter/follow/imharshuuu?logo=twitter&style=for-the-badge" alt="harshjo98309158" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamharsuu?t=QWG0VJif0D1F1Er4NPFACQ&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/imharshuuu?logo=twitter&style=for-the-badge" alt="harshjo98309158" /></a> </p>
 
 - 🌱 I’m currently learning **trying to be consistent**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harshuuu._._._/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-joshi-b46a13240/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imharshuuu) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harshuuu._._._/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-joshi-b46a13240/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamharsuu) 
 
 </p>
 
