@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsuuu&label=Profile%20views&color=0e75b6&style=flat" alt="harsuuu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamharsuu?t=QWG0VJif0D1F1Er4NPFACQ&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/imharshuuu?logo=twitter&style=for-the-badge" alt="harshjo98309158" /></a> </p>
-
 - 🌱 I’m currently learning **trying to be consistent**
 
 - 💬 Ask me about **#student**
