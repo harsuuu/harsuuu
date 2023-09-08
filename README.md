@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **trying to be consistent**
 
-- 💬 Ask me about **#student**
+- 💬 Ask me about **#Student**
 
 - 📫 How to reach me **harshjoshi7895@gmail.com**
 
