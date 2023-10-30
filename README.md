@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **harshjoshi7895@gmail.com**
 
-- ⚡ Fun fact **I am also finding lol😂!!!**
+- ⚡ Fun fact **I am also finding lol😂!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
